@@ -2,7 +2,7 @@
 <h3 align="center">I am an aspiring data scientist and consistently working on projects...</h3>
 
 
-<img align ="right" alt="Coding" width= "400" src="https://tenor.com/search/computer-smash-gifs">
+<img align ="right" alt="Coding" width= "400" src="https://media1.tenor.com/m/EeCOERAaCyYAAAAC/patrick-star-stupid-computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushh06&label=Profile%20views&color=0e75b6&style=flat" alt="aayushh06" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, Flask**
