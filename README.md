@@ -18,7 +18,7 @@
 - 🌱 Currently learning **Deep Neural Networks, Model Fine-Tuning, and Data Visualization**  
 - 📊 Skilled in **Python, SQL, Pandas, NumPy, Power BI, Tableau, and Excel**  
 - 👨‍💻 Explore all my projects on [**my portfolio**](https://tinyurl.com/aayusharma)  
-- 📫 Reach me at **aayush.as2311@gmail.com**
+- 📫 Reach me at **aayush.design19@gmail.com**
 
 ---
 
