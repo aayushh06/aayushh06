@@ -15,9 +15,9 @@
   - [**MegaStock – A Chrome Extension**](https://github.com/aayushh06/MegaStock--A-Chrome-Extension): Real-time stock monitoring using Yahoo Finance APIs  
   - [**Object Classification using OpenCV & YOLOv5**](https://github.com/aayushh06/Object-Classification-using-OpenCV): Real-time object detection with CNN and data augmentation  
   - [**Sudoku Solver using Backtracking**](https://github.com/aayushh06/Sudoku-Solver-using-Backtracking): Python-based solver with OpenCV and visualization  
-- 🌱 Currently learning **Deep Neural Networks, Model Fine-Tuning, and Data Visualization**  
+- 🌱 Currently learning **Deep Neural Networks, Model Fine-Tuning.**
 - 📊 Skilled in **Python, SQL, Pandas, NumPy, Power BI, Tableau, and Excel**  
-- 👨‍💻 Explore all my projects on [**my portfolio**](https://tinyurl.com/aayusharma)  
+- 👨‍💻 Explore all my projects on [**my Portfolio**](https://tinyurl.com/aayusharma)  
 - 📫 Reach me at **aayush.design19@gmail.com**
 
 ---
