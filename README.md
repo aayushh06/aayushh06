@@ -5,12 +5,9 @@
 <img align ="right" alt="Coding" width= "400" src="https://media1.tenor.com/m/EeCOERAaCyYAAAAC/patrick-star-stupid-computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushh06&label=Profile%20views&color=0e75b6&style=flat" alt="aayushh06" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Flask**
+- 🌱 I’m currently learning **Deep Neural Networks, Fine Tuning Models**
 
-- 👨‍💻 All of my projects are available at [https://aayushh06.github.io/Personal-Portfolio/](https://aayushh06.github.io/Personal-Portfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@aayush26](https://medium.com/@aayush26)
-
+- 👨‍💻 All of my projects are available at [my Portfolio](https://tinyurl.com/aayusharma)
 - 📫 How to reach me **aayush.as2311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
