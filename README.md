@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=aayushh06&label=Profile%20views&color=0e75b6&style=flat" alt="aayushh06" /> 
 </p>
 
-- 🎓 I’m pursuing **B.E. in Computer Science Engineering** from **Chandigarh University (2021–2025)**  
+- 🎓 I recently completed my **Bachelor of Engineering in Computer Science Engineering** from **Chandigarh University (2021–2025)**  
 - 💼 **Data Analytics Intern @ Paterson Securities Pvt. Ltd.** (April–June 2025)  
   - Built and backtested an intraday trading strategy on **20+ NSE stocks** using **Python, Pandas, NumPy, TA-Lib**  
   - Achieved consistent profitability through VWAP-based logic and P&L validation  
